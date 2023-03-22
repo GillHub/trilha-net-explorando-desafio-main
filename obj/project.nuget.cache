@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7nw2R2H/XvXi7q1Lvvd0sHfqCO4C26hgC57VwkucRvQEdSrhXmvjQTVrr1XzdPg76H2g8G1qnik03F+DD7vEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EMBST\\Desktop\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EMBST\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\EMBST\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\EMBST\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\EMBST\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
